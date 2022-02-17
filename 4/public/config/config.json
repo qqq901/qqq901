@@ -9,10 +9,10 @@
   "NFT_NAME": "RichBird",
   "SYMBOL": "RichBird",
   "MAX_SUPPLY": 8887,
-  "ETH_COST": 10000000000,
-  "GWEI": 25,
-  "DISPLAY_COST": 10,
+  "WEI_COST": 10000000000,
+    "DISPLAY_COST": 10,
   "GAS_LIMIT": 3000000,
+  "GWEI": 25,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/RichBirds",
   "SHOW_BACKGROUND": true

@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "RichBird",
   "SYMBOL": "RB",
-  "MAX_SUPPLY": 8888,
+  "MAX_SUPPLY": 8887,
   "WEI_COST": 100000000,
   "DISPLAY_COST": 10,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "GAS_LIMIT": 1285000,
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/RichBirds",
   "SHOW_BACKGROUND": true
 }

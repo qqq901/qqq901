@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0x5D4067037b351f456d0C5e4395ADDF1855158319",
-  "SCAN_LINK": "https://polygonscan.com/token/0x5D4067037b351f456d0C5e4395ADDF1855158319",
+  "CONTRACT_ADDRESS": "0x45bb0285902cf2fc24b52846c691160b75868256",
+  "SCAN_LINK": "https://polygonscan.com/token/0x45bb0285902cf2fc24b52846c691160b75868256",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "RichBird",
   "SYMBOL": "RB",
   "MAX_SUPPLY": 8888,
-  "WEI_COST": 30000000000000000,
+  "WEI_COST": 100000000,
   "DISPLAY_COST": 10,
-  "GAS_LIMIT": 28500,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/RichBirds",
   "SHOW_BACKGROUND": true

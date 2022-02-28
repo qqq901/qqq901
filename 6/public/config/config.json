@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x83c25a77eb232fa888840e1508f86727c5875004",
-  "SCAN_LINK": "https://polygonscan.com/token/0x83c25a77eb232fa888840e1508f86727c5875004",
+  "CONTRACT_ADDRESS": "0xc3b49a4c830fd1a16c7d49c9c1a7d0682da61648",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc3b49a4c830fd1a16c7d49c9c1a7d0682da61648",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 49.95,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/xmfersx",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/azuki-polygon",
   "SHOW_BACKGROUND": true
 }

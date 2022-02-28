@@ -6,9 +6,9 @@
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "Xmfers",
-  "SYMBOL": "Xmfer",
-  "MAX_SUPPLY": 6999,
+  "NFT_NAME": "AZUKI",
+  "SYMBOL": "AZUKI",
+  "MAX_SUPPLY": 9999,
   "WEI_COST": 49950000000000000000,
   "DISPLAY_COST": 49.95,
   "GAS_LIMIT": 3000000,

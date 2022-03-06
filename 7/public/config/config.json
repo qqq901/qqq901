@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x45bb0285902cf2fc24b52846c691160b75868256",
+  "SCAN_LINK": "https://polygonscan.com/token/0x45bb0285902cf2fc24b52846c691160b75868256",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Ape Yacht Club",
+  "SYMBOL": "BAYC",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 49950000000000000000,
+  "DISPLAY_COST": 49.95,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-apes-yacht-club-polyg0n",
+  "SHOW_BACKGROUND": true
+}

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xecab7ff049cfee5575ba3ff457ce679433d02cd0",
+  "SCAN_LINK": "https://polygonscan.com/token/0xecab7ff049cfee5575ba3ff457ce679433d02cd0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "CyberBrokers",
+  "SYMBOL": "CyberBrokers",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 90000000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cyberbrokers-matic",
+  "SHOW_BACKGROUND": true
+}

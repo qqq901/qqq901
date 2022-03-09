@@ -6,8 +6,8 @@
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "CyberBrokers",
-  "SYMBOL": "CyberBrokers",
+  "NFT_NAME": "CyberBroker",
+  "SYMBOL": "CyberBroker",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 90000000000000000000,
   "DISPLAY_COST": 9,

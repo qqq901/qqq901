@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0b0b2efc20cd69587007b1cffd96e4307124c6b6",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b0b2efc20cd69587007b1cffd96e4307124c6b6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Invisible Friends",
+  "SYMBOL": "INVSBLE",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 90000000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/invisible-friends-90",
+  "SHOW_BACKGROUND": true
+}

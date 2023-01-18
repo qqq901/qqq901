@@ -1,18 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x83c25a77eb232fa888840e1508f86727c5875004",
-  "SCAN_LINK": "https://polygonscan.com/token/0x83c25a77eb232fa888840e1508f86727c5875004",
+  "CONTRACT_ADDRESS": "0x43415056222E34612696f86638cbEbddB9bce346",
+  "SCAN_LINK": "https://polygonscan.com/token/0x43415056222E34612696f86638cbEbddB9bce346",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "Xmfers",
-  "SYMBOL": "Xmfer",
-  "MAX_SUPPLY": 6999,
-  "WEI_COST": 49950000000000000000,
-  "DISPLAY_COST": 49.95,
+  "NFT_NAME": "Verified NFT",
+  "SYMBOL": "VNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/xmfersx",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/verified-nft",
   "SHOW_BACKGROUND": true
 }
+

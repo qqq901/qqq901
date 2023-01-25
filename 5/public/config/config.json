@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000,
   "DISPLAY_COST": 0.1,
-  "GAS_LIMIT": 158500,
+  "GAS_LIMIT": 172500,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/verified-nft",
   "SHOW_BACKGROUND": true
